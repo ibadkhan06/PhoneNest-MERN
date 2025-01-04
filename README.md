@@ -1,6 +1,6 @@
 ## Features
 
-- **Developed** a full-stack e-commerce website using the MERN stack.
+- **Developed** a full-stack website for buying mobile phones using the MERN stack.
 - **Utilized** Redux for efficient state management.
 - **Styled** with Tailwind CSS for a modern, responsive design.
 - **Implemented** JWT for secure authentication.
