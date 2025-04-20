@@ -170,7 +170,7 @@ function ProductDetail() {
         )}
 
         <div className="mt-6">
-          <h2 className="text-2xl font-semibold mb-4">Chat with Seller</h2>
+          <h2 className="text-2xl font-semibold mb-4">Community Chat</h2>
           <div className="border p-4 rounded-md mb-4">
             <div className="h-64 overflow-y-auto mb-4">
               {chat.map((msg, index) => (
